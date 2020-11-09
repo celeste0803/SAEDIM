@@ -1,2 +1,0 @@
-# SAEDIM
-Sitio web institucional
